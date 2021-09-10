@@ -18,7 +18,7 @@ namespace sqlserver_connection
 
             const string connectionString =
                 @"Server=localhost;" +
-                "Database=SGC_999999_Teste;" +
+                "Database=TestDB;" +
                 "User Id=sa;" +
                 "Password=Pass1234;" +
                 "Pooling=false;" +
